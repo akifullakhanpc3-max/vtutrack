@@ -1,0 +1,44 @@
+[
+    {
+        "id":"Firstyear",
+        "title": "First Year",
+        "description": "We provide the best services for you.",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "location":"../views/innerelemets/Firstyear.html"
+    },
+    {
+        "id":"CSE",
+        "title": "CSE-ISE",
+        "description": "We provide the best services for you.",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "location":"../views/innerelemets/CSE.html"
+    },
+    {
+        "id":"EEE",
+        "title": "Electrical and Electroics",
+        "description": "We provide the best services for you.",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "location":"../views/innerelemets/EEE.html"
+    },
+    {
+        "id":"EC",
+        "title": "Electronics and Communication",
+        "description": "We provide the best services for you.",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "location":"../views/innerelemets/ec.html"
+    },
+    {
+        "id":"Civil",
+        "title": "Civil",
+        "description": "We provide the best services for you.",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "location":"../views/innerelemets/civil.html"
+    },
+    {
+        "id":"Mechanical",
+        "title": "Mechanical",
+        "description": "We provide the best services for you.",
+        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "location":"../views/innerelemets/mech.html"
+    }
+]

@@ -1,0 +1,49 @@
+
+
+/* ===== Premium Module Buttons ===== */
+button {
+    background: linear-gradient(135deg, #1e88e5, #1565c0);
+    border: none;
+    color: white;
+    padding: 16px 36px;
+    margin: 12px;
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    border-radius: 14px;
+    cursor: pointer;
+    box-shadow: 0 6px 18px rgba(21, 101, 192, 0.35);
+    transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.3s ease;
+}
+
+/* Hover Glow Effect */
+button:hover {
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 10px 25px rgba(21, 101, 192, 0.5);
+    background: linear-gradient(135deg, #2196f3, #0d47a1);
+}
+
+/* Click Effect */
+button:active {
+    transform: scale(0.96);
+    box-shadow: 0 4px 12px rgba(21, 101, 192, 0.3);
+}
+
+/* Optional heading style if added later */
+h1 {
+    color: #0d47a1;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    button {
+        width: 85%;
+    }
+}
+
+.module-buttons {
+    text-align: center;
+    margin-top: 30px;
+}
