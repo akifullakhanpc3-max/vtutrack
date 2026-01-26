@@ -2,49 +2,49 @@
     {
         "subject": "Mathematics M3 for CS/ISE",
         "code": "BCS301",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Mathematics-for-Computer-Science-BCS301-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "Digital design and computer organization",
         "code": "BCS302",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Digital-Design-and-Computer-Organization-BCS302-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "Operating System",
         "code": "BCS303",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Operating-Systems-BCS303-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "Data Structures and Applications ",
         "code": "BCS304",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Data-Structures-and-Applications-BCS304-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "Data Structures and Applications laboratory",
         "code": "BCSL305",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Data-Structure-Laboratory-BCSL305-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "OOPS With C++ ",
         "code": "BCS306B",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/OPPS-with-c-BCS306B-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "DAta Analutics with Excel",
         "code": "BCSL307B",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Data-Analytics-with-Excel-BCS358A-1024x640.jpg",
         "scheme": "2022"
     },
     {
         "subject": "OOPS with Java",
         "code": "BHS306A",
-        "image": "https://example.com/images/math101.jpg",
+        "image": "https://vtucircle.com/wp-content/uploads/2024/12/Object-Oriented-Programming-with-JAVA-BCS306A-1024x640.jpg",
         "scheme": "2022"
     }
 ]

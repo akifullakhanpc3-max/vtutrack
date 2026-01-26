@@ -3,28 +3,28 @@
         "id":"Firstyear",
         "title": "First Year",
         "description": "We provide the best services for you.",
-        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0Pz8J004B4HVNu0Vtc8AFwGZNE-iGpzwn2w&s",
         "location":"../views/innerelemets/Firstyear.html"
     },
     {
         "id":"CSE",
         "title": "CSE-ISE",
         "description": "We provide the best services for you.",
-        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwsBZ9v8jbLr-XBH-roCNvWagRfQ2fB1sSw&s",
         "location":"../views/innerelemets/CSE.html"
     },
     {
         "id":"EEE",
         "title": "Electrical and Electroics",
         "description": "We provide the best services for you.",
-        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPvBz9vh-3OO6YvE-t156zxSQZElsOAfMMKJQdfYv&s",
         "location":"../views/innerelemets/EEE.html"
     },
     {
         "id":"EC",
         "title": "Electronics and Communication",
         "description": "We provide the best services for you.",
-        "image": "https://img.freepik.com/free-photo/fuji-mountain-with-milky-way-night_335224-104.jpg?semt=ais_hybrid&w=740&q=80",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBta48ep4-f9HhFvo-la9YJYdzsrRYYtLbQ&s",
         "location":"../views/innerelemets/ec.html"
     },
     {

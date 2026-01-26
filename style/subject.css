@@ -47,3 +47,18 @@ h1 {
     text-align: center;
     margin-top: 30px;
 }
+
+.card-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    min-width: 300px;
+    margin-top: 30px;
+}
+
+.card{
+    min-width: 300px;
+    max-width: 300px;
+}
